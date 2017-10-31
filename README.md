@@ -1,2 +1,2 @@
-# web-junior-page
+# webjuniorpage
 Курс "Web-junior" - учебная страница
